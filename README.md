@@ -18,10 +18,6 @@ Node.js · Express · MongoDB
 
 ## 💻 Featured Projects
 
-### 🔹 **[GreenHarvest](https://obolonska.github.io/team-project/)** 
-**Repo:** https://github.com/YuliiaChernysheva/GreenHarvest-team-project-
-Web app for managing agricultural/gardening activities. Includes team-based workflow, responsive UI, and reusable components.
-
 ### 🔹 **[ArtistsHub](https://roman-isko.github.io/Codeaholics-Anonymous/)**  
 **Repo:** https://github.com/YuliiaChernysheva/ArtistsHub
 Platform for artists to showcase works, browse content, and connect.
@@ -30,6 +26,9 @@ Platform for artists to showcase works, browse content, and connect.
 **Repo:** https://github.com/YuliiaChernysheva/05-notehub 
 A React-based note-taking app with create, edit, delete, and search features. A learning project focused on React fundamentals.
 
+### 🔹 **[GreenHarvest](https://obolonska.github.io/team-project/)** 
+**Repo:** https://github.com/YuliiaChernysheva/GreenHarvest-team-project-
+Web app for managing agricultural/gardening activities. Includes team-based workflow, responsive UI, and reusable components.
 
 ## 🗣️ Languages
 
