@@ -13,8 +13,6 @@ Open to **internships**, **junior positions**, and **team collaboration**.
 JavaScript · React · Next.js · HTML5 · CSS3  
 **Backend:**  
 Node.js · Express · MongoDB 
-**Tools:**  
-Git · GitHub · Figma · REST API · Vercel · Formik · Yup
 
 ## 💻 Featured Projects
 
