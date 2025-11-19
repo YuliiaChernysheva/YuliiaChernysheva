@@ -7,12 +7,14 @@ Enthusiastic Fullstack developer with experience in building responsive, accessi
 Comfortable working with REST API, reusable UI components, and modern development tools.  
 Open to **internships**, **junior positions**, and **team collaboration**.
 
+
 ## 🧰 Tech Stack
 
 **Frontend:**  
 JavaScript · React · Next.js · HTML5 · CSS3  
 **Backend:**  
 Node.js · Express · MongoDB 
+
 
 ## 💻 Featured Projects
 
@@ -28,10 +30,12 @@ Platform for artists to showcase works, browse content, and connect.
 **Repo:** https://github.com/YuliiaChernysheva/05-notehub 
 A React-based note-taking app with create, edit, delete, and search features. A learning project focused on React fundamentals.
 
+
 ## 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
 
 ## 📫 How to reach me
 
