@@ -72,5 +72,4 @@ Web app for managing agricultural/gardening activities. Includes team-based work
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliiaChernysheva&layout=compact)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuliiaChernysheva&theme=github)
 
