@@ -25,7 +25,7 @@ Web app for managing agricultural/gardening activities. Includes team-based work
 Platform for artists to showcase works, browse content, and connect.
 
 ### 🔹  **[Notehub](https://05-notehub-xi-five.vercel.app/)**  
-**Live:** https://github.com/YuliiaChernysheva/05-notehub 
+**Repo:** https://github.com/YuliiaChernysheva/05-notehub 
 A React-based note-taking app with create, edit, delete, and search features. A learning project focused on React fundamentals.
 
 ## 🗣️ Languages
