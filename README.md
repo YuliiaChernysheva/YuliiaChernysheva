@@ -12,23 +12,23 @@ Open to **internships**, **junior positions**, and **team collaboration**.
 **Frontend:**  
 JavaScript · React · Next.js · HTML5 · CSS3  
 **Backend:**  
-Node.js · Express · MongoDB
+Node.js · Express · MongoDB 
 **Tools:**  
 Git · GitHub · Figma · REST API · Vercel · Formik · Yup
 
 ## 💻 Featured Projects
 
-### 🔹 **GreenHarvest (Team Project)**  
-**Repo:** https://github.com/YuliiaChernysheva/GreenHarvest-team-project-  
+### 🔹 **[GreenHarvest](https://obolonska.github.io/team-project/)** 
+**Repo:** https://github.com/YuliiaChernysheva/GreenHarvest-team-project-
 Web app for managing agricultural/gardening activities. Includes team-based workflow, responsive UI, and reusable components.
 
-### 🔹 **ArtistsHub**  
-**Repo:** https://github.com/YuliiaChernysheva/ArtistsHub  
+### 🔹 **[ArtistsHub](https://roman-isko.github.io/Codeaholics-Anonymous/)**  
+**Repo:** https://github.com/YuliiaChernysheva/ArtistsHub
 Platform for artists to showcase works, browse content, and connect.
 
-### 🔹 **Auth App (Deployed)**  
-**Live:** https://09-auth-alpha-lac.vercel.app/  
-Authentication app built with modern UI, form validation, and protected routes.
+### 🔹  **[Notehub](https://05-notehub-xi-five.vercel.app/)**  
+**Live:** https://github.com/YuliiaChernysheva/05-notehub 
+A React-based note-taking app with create, edit, delete, and search features. A learning project focused on React fundamentals.
 
 ## 🗣️ Languages
 
