@@ -1,7 +1,6 @@
 # 👋 Hi, I’m **Yuliia Chernysheva**
 
 ### 💻 Junior Fullstack Developer  
-JavaScript · React · Next.js · Node.js · HTML · CSS
 
 Enthusiastic Fullstack developer with experience in building responsive, accessible, and user-friendly web interfaces.  
 Comfortable working with REST API, reusable UI components, and modern development tools.  
@@ -10,27 +9,10 @@ Open to **internships**, **junior positions**, and **team collaboration**.
 ## 🧰 Tech Stack
 
 ### Frontend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</p>
+React · TypeScript · JavaScript · Next.js · HTML5 · CSS3 · Redux · REST API · Vite · Figma
 
 ### Backend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</p>
-
-### Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</p>
+Node.js · Express · MongoDB · Mongoose · Swagger
 
 ## 🔥 Badges
 
