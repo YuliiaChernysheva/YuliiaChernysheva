@@ -48,10 +48,4 @@ Web app for managing agricultural/gardening activities. Includes team-based work
 💬 **Telegram:** [https://t.me/YuliiaChernysheva](https://t.me/YuliiaChernysheva)  
 📧 **Email:** yuliiachernysheva2905@gmail.com
 
-## 📊 GitHub Stats
-
-![Yuliia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliiaChernysheva&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliiaChernysheva&layout=compact)
-
 
