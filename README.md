@@ -9,7 +9,7 @@ Open to **internships**, **junior positions**, and **team collaboration**.
 ## 🧰 Tech Stack
 
 ### Frontend  
-React · TypeScript · JavaScript · Next.js · HTML5 · CSS3 · Redux · REST API · Vite · Figma
+React · TypeScript · JavaScript · Next.js · HTML5 · CSS3 · REST API · Vite · Figma
 
 ### Backend  
 Node.js · Express · MongoDB · Mongoose · Swagger
